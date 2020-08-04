@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/thinkingandbeing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AP012：思想与存在
 
-### Markdown
+本次读书会所使用的主要文本是Irad Kimhi的《思想与存在》一书。该书对既有心灵哲学与形而上学传统进行了重大挑战，同时受到了分析与欧陆哲学工作者的注意。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+弗雷格反对从古希腊延续到十九世纪晚期的西方哲学传统的正统观点，他认为思维的心理律（解释我们事实上如何思考的法则）必须与思维的逻辑律（对于思维加以描绘并在其上强加理性要求的法则）区别。逻辑并不描述我们事实上如何思考，而只是描述我们应该如何思考。然而，因为区分了逻辑和心理，弗雷格无法解释某些基本逻辑真理，最显著的是非矛盾律的心理学版本――一个人不能同时思考一个思想和它的否定。
 
-```markdown
-Syntax highlighted code block
+Irad Kimhi的《思想与存在》标志着与弗雷格的分析哲学遗产的彻底决裂，揭露了他方法上的缺陷，并勾勒出一个新的作为双向能力的判断概念。在弥合弗雷格打开的gap时，Kimhi表明，两个非矛盾原则——本体论原则和心理学原则——实际上是同一能力的不同方面，在思想和存在中有不同的展现。
 
-# Header 1
-## Header 2
-### Header 3
+随着他的论证不断演进，Kimhi借鉴了亚里士多德、康德和维特根斯坦等人的洞见，发展了对逻辑和更广泛的哲学主题的高度原创的叙述。自我意识、语言和逻辑被揭示为同一现实的不同侧面。最终，Kimhi的工作阐明了思与存在在本质上的相同性，这种本质相同性自西方哲学诞生以来就一直被加以运用。
 
-- Bulleted
-- List
+[[点击在线阅读]](https://tquadrivium.github.io/thinkingandbeing//)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 1.课程大纲
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Chapter 01：导论
 
-### Jekyll Themes
+  [slides] [video]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/thinkingandbeing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Chapter 02：P的生命
 
-### Support or Contact
+  [slides] [video]
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Chapter 03：存在的主要涵义
+
+  [slides] [video]
+
+- Chapter 04：论陌生人的寂静主义
+
+  [slides] [video]
+
+
+
+### 2.关于Irad Kimhi
+
+Irad Kimhi是芝加哥大学John U. Neff社会思想委员会的社会思想副教授。
+
+### 3.关于读书会
+
+读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN发起。
+
+读书会项目地址：https://github.com/tquadrivium
+
+### 4.学习形式
+
+采用线上学习的形式（QQ群），每周阅读《思想与存在》的一章内容。每周先由领读人梳理章节内容（20-30分钟），然后大家对阅读时所遇到的问题和难点进行讨论（40-80分钟）。
+
+### 5.参与方法
+
+联系发起人QQ：485951380，备注：称谓+《思想与存在》读书会。待申请通过后，发送个人基本情况（如专业方向、年级）和加入读书会的理由（100字以内）。我们会尽可能快的进行答复。
+
+我们会尽可能快的进行答复。
+
+
+
+### 6.参与成员
+
+该项目创建于2020/8/4，第一次预计在8/7号开展。
+
+#### 第一期
+
+负责人 ： Aho、[Hao ZHAN](https://github.com/zhanhao93)
+
+项目成员： Austoria、阿本希、何宏剑、L’épuisé、Zagreus、wildanimal、自体破碎
+
+该项目创建于2020/6/1，距今已开展1期。
+
