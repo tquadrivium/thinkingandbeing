@@ -66,5 +66,5 @@ Irad Kimhi是芝加哥大学John U. Neff社会思想委员会的社会思想副�
 
 项目成员： Austoria、阿本希、何宏剑、L’épuisé、Zagreus、wildanimal、自体破碎
 
-该项目创建于2020/6/1，距今已开展1期。
+该项目创建于2020/8/1，距今已开展1期。
 
